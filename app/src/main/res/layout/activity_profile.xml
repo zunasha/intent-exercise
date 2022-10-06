@@ -170,7 +170,7 @@
             android:layout_marginStart="16dp"
             android:layout_marginTop="16dp"
             android:fontFamily="@font/futura_pt_demibold"
-            android:text="Email"
+            android:text="HmPage"
             android:textAlignment="textStart"
             android:textSize="20sp"
             app:layout_constraintEnd_toStartOf="@+id/guideline2"
